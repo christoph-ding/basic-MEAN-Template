@@ -1,0 +1,22 @@
+{
+  "name": "basic-template",
+  "version": "1.0.0",
+  "description": "A template to save time writing boiler-plate MEAN stack code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironpup/basic-MEAN-Template.git"
+  },
+  "author": "Chris Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironpup/basic-MEAN-Template/issues"
+  },
+  "homepage": "https://github.com/ironpup/basic-MEAN-Template#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
